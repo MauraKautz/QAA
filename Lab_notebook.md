@@ -238,6 +238,8 @@ dist_plot_4 <- ggplot() +
     --genomeFastaFiles <???>
     --sjdbGTFfile <???>
     ```
+
+    **Did not add `Mus_musculus.GRCm39.dna.ens112.STAR_2.7.11b` to github - it is too big!**
 - used another slurm scipt `star_align.sh` to align my trimmed R1 and R2 library files to the newly created database
 
 ### September 8, 2024:
